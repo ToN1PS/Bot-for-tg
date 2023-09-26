@@ -58,27 +58,3 @@ class ChatGpt3:
         
         
         
-        
-            
-
-    
-
-
-
-# api = "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"
-# test = ChatGpt3(api)
-
-# test.loadFileInOpenai("test2.jsonl")
-
-
-# prompt1 = 'Отвечай только на ангдийском'
-# prompt2 = 'Напиши привет'
-
-# m = test.generate_response(prompt1)
-# print(m)
-# c = test.generate_response(prompt2)
-# print(c)
-# m = test.generate_response(prompt1)
-# print(m)
-# c = test.generate_response(prompt2)
-# print(c)
